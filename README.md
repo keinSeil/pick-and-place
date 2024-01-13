@@ -3,6 +3,8 @@
 ## Overview
 This project develops a computer vision system that locates objects for a 3D-printed robot. It integrates the kinematics and controls of a three degree-of-freedom robot, image segmentation techniques to separate objects of interest from the background, and an Intel Realsense 435 "stereo" camera to locate objects in 3D space.
 
+Check out the demo here: https://youtu.be/oYR2Y1Otlyo
+
 ## Equipment
 - Robot kinematics and controls are derived within the MATLAB computation environment.
 - Implementation within the Arduino IDE.
